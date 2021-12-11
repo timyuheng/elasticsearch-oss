@@ -3,3 +3,4 @@ add Dockerfile:docker.elastic.co/elasticsearch/elasticsearch-oss:6.3.2 2021-12-0
 # first commit
 add Dockerfile:docker.elastic.co/elasticsearch/elasticsearch-oss:6.2.3 2021-12-05
 # first commit
+add Dockerfile:docker.elastic.co/elasticsearch/elasticsearch-oss:7.4.2 2021-12-11
